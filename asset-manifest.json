@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mrskai-opt-drop/static/css/main.ad784f64.chunk.css",
+    "main.js": "/mrskai-opt-drop/static/js/main.c52307c8.chunk.js",
+    "main.js.map": "/mrskai-opt-drop/static/js/main.c52307c8.chunk.js.map",
+    "runtime-main.js": "/mrskai-opt-drop/static/js/runtime-main.46c09077.js",
+    "runtime-main.js.map": "/mrskai-opt-drop/static/js/runtime-main.46c09077.js.map",
+    "static/js/2.b6085473.chunk.js": "/mrskai-opt-drop/static/js/2.b6085473.chunk.js",
+    "static/js/2.b6085473.chunk.js.map": "/mrskai-opt-drop/static/js/2.b6085473.chunk.js.map",
+    "index.html": "/mrskai-opt-drop/index.html",
+    "precache-manifest.d357699c691f5604aea8e053a845f9e3.js": "/mrskai-opt-drop/precache-manifest.d357699c691f5604aea8e053a845f9e3.js",
+    "service-worker.js": "/mrskai-opt-drop/service-worker.js",
+    "static/css/main.ad784f64.chunk.css.map": "/mrskai-opt-drop/static/css/main.ad784f64.chunk.css.map",
+    "static/js/2.b6085473.chunk.js.LICENSE.txt": "/mrskai-opt-drop/static/js/2.b6085473.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/mrskai-opt-drop/static/media/CeraPro-Thin.192c9663.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46c09077.js",
+    "static/js/2.b6085473.chunk.js",
+    "static/css/main.ad784f64.chunk.css",
+    "static/js/main.c52307c8.chunk.js"
+  ]
+}
