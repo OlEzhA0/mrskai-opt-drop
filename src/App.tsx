@@ -36,7 +36,7 @@ const App = () => {
       />
       <Buttons
         background="#725EDC"
-        link="viber://chat?number=+380638911817"
+        link="viber://add?number=380638911817"
         imgLink="images/viber.svg"
         text="НАПИСАТЬ В VIBER"
       />
