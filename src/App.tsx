@@ -17,26 +17,26 @@ const App = () => {
       <Cooperation />
       <Buttons
         background="#5AA1F8"
-        link="#"
+        link="https://t.me/mrskai_drop"
         imgLink="images/tg.svg"
         text="ПЕРЕЙТИ В КАТАЛОГ - TELEGRAM"
       />
       <Options />
       <Buttons
         background="#5AA1F8"
-        link="#"
+        link="https://t.me/mrskai_drop"
         imgLink="images/tg.svg"
         text="ПЕРЕЙТИ В КАТАЛОГ - TELEGRAM"
       />
       <Buttons
         background="linear-gradient(82.53deg, #E7B363 0%, #C64563 45.83%, #8243B6 100%)"
-        link="#"
+        link="https://www.instagram.com/mrskai.com.ua/"
         imgLink="images/inst.svg"
         text="ПЕРЕЙТИ В КАТАЛОГ - INSTAGRAM"
       />
       <Buttons
         background="#725EDC"
-        link="#"
+        link="viber://chat?number=+380638911817"
         imgLink="images/viber.svg"
         text="НАПИСАТЬ В VIBER"
       />
