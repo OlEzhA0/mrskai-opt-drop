@@ -1,0 +1,17 @@
+.CoopOption {
+  margin-bottom: 40px;
+
+  &__Title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  &__Text {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}

@@ -1,0 +1,48 @@
+.Terms {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  &__List {
+    list-style-type: none;
+  }
+
+  &__Dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #010101;
+    margin-right: 16px;
+  }
+
+  &__Item {
+    display: flex;
+    align-items: center;
+  }
+
+  &__ItemText {
+    font-size: 20px;
+  }
+
+  &__Img {
+    margin-bottom: 15px;
+  }
+
+  &__Arrows {
+    animation: anim 1s linear infinite;
+  }
+}
+
+@keyframes anim {
+  0% {
+    transform: translateY(0);
+  }
+
+  40% {
+    transform: translateY(-15px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
