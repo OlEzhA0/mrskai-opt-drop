@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mrskai-opt-drop/static/css/main.ad784f64.chunk.css",
-    "main.js": "/mrskai-opt-drop/static/js/main.c52307c8.chunk.js",
-    "main.js.map": "/mrskai-opt-drop/static/js/main.c52307c8.chunk.js.map",
+    "main.js": "/mrskai-opt-drop/static/js/main.207e187c.chunk.js",
+    "main.js.map": "/mrskai-opt-drop/static/js/main.207e187c.chunk.js.map",
     "runtime-main.js": "/mrskai-opt-drop/static/js/runtime-main.46c09077.js",
     "runtime-main.js.map": "/mrskai-opt-drop/static/js/runtime-main.46c09077.js.map",
     "static/js/2.b6085473.chunk.js": "/mrskai-opt-drop/static/js/2.b6085473.chunk.js",
     "static/js/2.b6085473.chunk.js.map": "/mrskai-opt-drop/static/js/2.b6085473.chunk.js.map",
     "index.html": "/mrskai-opt-drop/index.html",
-    "precache-manifest.d357699c691f5604aea8e053a845f9e3.js": "/mrskai-opt-drop/precache-manifest.d357699c691f5604aea8e053a845f9e3.js",
+    "precache-manifest.38933ae82823484495e2aec112e3888d.js": "/mrskai-opt-drop/precache-manifest.38933ae82823484495e2aec112e3888d.js",
     "service-worker.js": "/mrskai-opt-drop/service-worker.js",
     "static/css/main.ad784f64.chunk.css.map": "/mrskai-opt-drop/static/css/main.ad784f64.chunk.css.map",
     "static/js/2.b6085473.chunk.js.LICENSE.txt": "/mrskai-opt-drop/static/js/2.b6085473.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.46c09077.js",
     "static/js/2.b6085473.chunk.js",
     "static/css/main.ad784f64.chunk.css",
-    "static/js/main.c52307c8.chunk.js"
+    "static/js/main.207e187c.chunk.js"
   ]
 }
