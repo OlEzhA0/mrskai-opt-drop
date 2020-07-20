@@ -15,7 +15,6 @@ export const Terms = () => {
         </li>
       </ul>
       <img src="images/preview.svg" alt="preview" className="Terms__Img" />
-      <img src="images/arrows.svg" alt="arrows" className="Terms__Arrows" />
     </div>
   );
 };
