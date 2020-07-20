@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mrskai-opt-drop/static/css/main.ad784f64.chunk.css",
-    "main.js": "/mrskai-opt-drop/static/js/main.207e187c.chunk.js",
-    "main.js.map": "/mrskai-opt-drop/static/js/main.207e187c.chunk.js.map",
+    "main.css": "/mrskai-opt-drop/static/css/main.31f124a6.chunk.css",
+    "main.js": "/mrskai-opt-drop/static/js/main.58873d63.chunk.js",
+    "main.js.map": "/mrskai-opt-drop/static/js/main.58873d63.chunk.js.map",
     "runtime-main.js": "/mrskai-opt-drop/static/js/runtime-main.46c09077.js",
     "runtime-main.js.map": "/mrskai-opt-drop/static/js/runtime-main.46c09077.js.map",
     "static/js/2.b6085473.chunk.js": "/mrskai-opt-drop/static/js/2.b6085473.chunk.js",
     "static/js/2.b6085473.chunk.js.map": "/mrskai-opt-drop/static/js/2.b6085473.chunk.js.map",
     "index.html": "/mrskai-opt-drop/index.html",
-    "precache-manifest.38933ae82823484495e2aec112e3888d.js": "/mrskai-opt-drop/precache-manifest.38933ae82823484495e2aec112e3888d.js",
+    "precache-manifest.114842cb3c48a8a701f1491572eb2b9d.js": "/mrskai-opt-drop/precache-manifest.114842cb3c48a8a701f1491572eb2b9d.js",
     "service-worker.js": "/mrskai-opt-drop/service-worker.js",
-    "static/css/main.ad784f64.chunk.css.map": "/mrskai-opt-drop/static/css/main.ad784f64.chunk.css.map",
+    "static/css/main.31f124a6.chunk.css.map": "/mrskai-opt-drop/static/css/main.31f124a6.chunk.css.map",
     "static/js/2.b6085473.chunk.js.LICENSE.txt": "/mrskai-opt-drop/static/js/2.b6085473.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/mrskai-opt-drop/static/media/CeraPro-Thin.192c9663.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.46c09077.js",
     "static/js/2.b6085473.chunk.js",
-    "static/css/main.ad784f64.chunk.css",
-    "static/js/main.207e187c.chunk.js"
+    "static/css/main.31f124a6.chunk.css",
+    "static/js/main.58873d63.chunk.js"
   ]
 }

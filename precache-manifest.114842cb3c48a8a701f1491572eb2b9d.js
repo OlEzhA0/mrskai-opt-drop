@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f8af0e780a6b07bef048dbd6963f80e",
+    "revision": "87937902d2be227b86e1c625c2b5b1ea",
     "url": "/mrskai-opt-drop/index.html"
   },
   {
-    "revision": "19ae5a3598cadfb0a1af",
-    "url": "/mrskai-opt-drop/static/css/main.ad784f64.chunk.css"
+    "revision": "eeee963045ae245f1bb2",
+    "url": "/mrskai-opt-drop/static/css/main.31f124a6.chunk.css"
   },
   {
     "revision": "ce69872769e98ec51d3e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mrskai-opt-drop/static/js/2.b6085473.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19ae5a3598cadfb0a1af",
-    "url": "/mrskai-opt-drop/static/js/main.207e187c.chunk.js"
+    "revision": "eeee963045ae245f1bb2",
+    "url": "/mrskai-opt-drop/static/js/main.58873d63.chunk.js"
   },
   {
     "revision": "5439d85642c5679166ae",
